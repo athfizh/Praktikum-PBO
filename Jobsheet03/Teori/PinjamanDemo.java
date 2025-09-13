@@ -2,7 +2,7 @@ package Teori;
 
 public class PinjamanDemo {
     public static void main(String[] args) {
-        System.out.println("SELAMAT DATANG DI SISTEM PINJOL FASTCASH 🏦");
+        System.out.println("SELAMAT DATANG DI SISTEM PINJOL FASTCASH");
         System.out.println("===============================================");
         System.out.println();
         
