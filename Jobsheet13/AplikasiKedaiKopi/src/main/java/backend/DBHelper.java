@@ -7,7 +7,6 @@ public class DBHelper {
     public static void bukaKoneksi() {
         if (koneksi == null) {
             try {
-                // GANTI 'password_anda' DENGAN PASSWORD POSTGRESQL ANDA
                 String url = "jdbc:postgresql://localhost:5432/db_kedai_kopi";
                 String user = "postgres";
                 String password = "kepanjen45"; 
