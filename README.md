@@ -11,7 +11,7 @@
  Praktikum Pemrograman Berbasis Objek
 ```
 
-# ☕ Praktikum PBO
+# Praktikum PBO
 
 ### *Object-Oriented Programming Lab — Semester Repository*
 
