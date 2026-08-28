@@ -308,6 +308,4 @@ Java  ████████████████████████�
 
 <br/>
 
-<sub>Made with ☕ Java & 💪 by <b>Athaulla Hafizh</b></sub>
-
 </div>
