@@ -25,7 +25,7 @@
 <br/>
 
 > *"Object-oriented programming is an exceptionally bad idea which could only have originated in California."*
-> — Edsger W. Dijkstra *(but we're learning it anyway 😄)*
+> — Edsger W. Dijkstra *(but we're learning it anyway)*
 
 <br/>
 
