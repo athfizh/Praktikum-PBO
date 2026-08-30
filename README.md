@@ -40,13 +40,32 @@
 
 ## 👤 Identitas Mahasiswa
 
-| Field | Detail |
-|-------|--------|
-| **Nama** | Athaulla Hafizh |
-| **Username GitHub** | [@athfizh](https://github.com/athfizh) |
-| **Mata Kuliah** | Praktikum Pemrograman Berbasis Objek (PBO) |
-| **Bahasa Pemrograman** | ☕ Java (100%) |
-| **Tools** | IntelliJ IDEA / NetBeans |
+<table>
+  <tr>
+    <td><b>Nama</b></td>
+    <td>Athaulla Hafizh</td>
+  </tr>
+  <tr>
+    <td><b>Presensi / NIM</b></td>
+    <td>04 / 244107020030</td>
+  </tr>
+  <tr>
+    <td><b>Kelas</b></td>
+    <td><a>TI-2A</a></td>
+  </tr>
+  <tr>
+    <td><b>Mata Kuliah</b></td>
+    <td>Pemrograman Berbasis Objek (PBO)</td>
+  </tr>
+  <tr>
+    <td><b>Program Studi</b></td>
+    <td>D-IV Teknik Informatika</td>
+  </tr>
+  <tr>
+    <td><b>Jurusan</b></td>
+    <td>Teknologi Informasi — Politeknik Negeri Malang</td>
+  </tr>
+</table>
 
 ---
 
